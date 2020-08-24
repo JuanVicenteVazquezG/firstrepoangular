@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "fisrtrepoangular"
+    }
+  },
+  "defaultProject": "fisrtrepoangular",
+  "cli": {
+    "analytics": "270cd326-3f07-4280-9ff5-7d4676b76549"
+  }
 }
