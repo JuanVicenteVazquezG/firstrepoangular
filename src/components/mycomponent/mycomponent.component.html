@@ -5,3 +5,9 @@
     title
   }}
 </ul>
+<div *ngIf="showMovies">
+  <app-movies></app-movies>
+</div>
+
+<hr>
+<button (click)="hideComponent()">show/hide</button>
